@@ -7,7 +7,7 @@ const axiosStatusFile = 'axios_status.json';
 const apiUrl = 'https://cprojectapisjonellv2.adaptable.app/api/ai?query=';
 
 module.exports.config = {
-    name: "ai",
+    name: "ai2",
     version: "1.0.0",
     role: 0,
     description: "EDUCATIONAL",
